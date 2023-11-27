@@ -5,13 +5,13 @@ author: Mitchell Rosen, Travis Staton
 bug-reports: https://github.com/awkward-squad/int-supply/issues
 build-type: Simple
 copyright: (c) 2023 Mitchell Rosen, Travis Staton
-description: This package provides a simple, efficient supply of unique integers using atomic fetch-and-add.
+description: This package provides a simple, efficient supply of integers using atomic fetch-and-add.
 homepage: https://github.com/awkward-squad/int-supply
 license: BSD-3-Clause
 license-file: LICENSE
 maintainer: Mitchell Rosen <mitchellwrosen@gmail.com>, Travis Staton <hello@travisstaton.com>
 name: int-supply
-synopsis: A simple, efficient supply of unique integers using atomic fetch-and-add.
+synopsis: A simple, efficient supply of integers using atomic fetch-and-add.
 tested-with: GHC == 9.4.8, GHC == 9.6.3, GHC == 9.8.1
 version: 1.0.0
 
